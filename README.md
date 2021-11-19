@@ -9,6 +9,6 @@ The following outlines were performed:
 
 How to run the codes:
 1. Open Jupyter notebook "mission_to_mars" and run the codes for data scraping
-2. Run app.py in Git Bash and open http://127.0.0.1:5000/ in the browser, click Scrape New Data
+2. Run app.py in Git Bash and open http://127.0.0.1:5000/ in the browser, click Scrape New Data. First time opening this web there is a blank page with only headlines, however clicking Scrape bottom will pop the content.
 
-#### ** Note that sometimes the site shows as broken with "can't be reached" or other error messages while reloading, but the content will show up upon completion
+#### ** Note that sometimes the site shows as broken with "can't be reached" or other error messages while reloading, but the content shows up automatically once the code complete running
